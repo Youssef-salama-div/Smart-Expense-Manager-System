@@ -139,4 +139,4 @@ python gui.py
 
 ## Author
 
-**Mariam Mohamed Sayed**
+**Youssef Abdelrahman Ibrahem**
